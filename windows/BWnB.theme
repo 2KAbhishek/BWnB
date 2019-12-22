@@ -4,7 +4,7 @@
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
 DisplayName=BWnB
-ThemeId={FC44F6EF-AF11-4DF1-A88C-CE2961DB0947}
+ThemeId={F26E6B7E-F2E5-4F90-BDD2-6C36D55300FC}
 
 [Control Panel\Desktop]
 PicturePosition=4
@@ -16,9 +16,10 @@ Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
-ColorizationColor=0X7F000000
+ColorizationColor=0XC40078D7
 VisualStyleVersion=10
 HighContrast=3
+AppMode=Dark
 
 [MasterThemeSelector]
 MTSM=RJSPBS
@@ -30,7 +31,7 @@ AppWorkspace=0 0 0
 Background=0 0 0
 ButtonAlternateFace=192 192 192
 ButtonDkShadow=0 0 0
-ButtonFace=10 10 15
+ButtonFace=0 0 0
 ButtonHilight=0 0 0
 ButtonLight=0 0 0
 ButtonShadow=128 128 128
@@ -38,7 +39,7 @@ ButtonText=220 220 220
 GradientActiveTitle=192 192 192
 GradientInactiveTitle=128 128 128
 GrayText=128 128 128
-Hilight=22 136 240
+Hilight=2 82 255
 HilightText=252 252 252
 HotTrackingColor=220 220 220
 InactiveBorder=0 0 0
