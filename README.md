@@ -24,20 +24,20 @@ git clone https://github.com/2kabhishek/BWnB.git
 
 ### Windows
 
-Double click windows/BWnB.theme.
+Double click `windows/BWnB.theme`.
 
 ### Linux
 
 #### KDE
 
 You have to use a plasma theme that follows color scheme (e.g Breeze, Arc Color).
-Open System Settings > Color, then click on install from file and select kde/BWnB.colors.
+Open System Settings > Color, then click on install from file and select `kde/BWnB.colors`.
 Then go to Application styles and pick an appropriate option, I'll again recommend Breeze.
 
 #### GNOME
 
 You have to install [oomox](https://github.com/themix-project/oomox) there select BWnB from the available themes.
 
-#### Telegram Desktop
+##### Telegram Desktop
 
-Send telegram/BWnB.tdesktop-theme to your saved messages and apply the theme.
+Send `telegram/BWnB.tdesktop-theme` to your saved messages and apply the theme.
