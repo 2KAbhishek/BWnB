@@ -1,5 +1,3 @@
-<div align="center">
-
 # BWnB
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/BWnB?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 BWnB (Black White n Blue) is a true black color theme with blue accents.
 
-</div>
 
 Darker than any other dark theme out there, BWnB is specially useful for AMOLED screens. Embrace the darkness!
 
@@ -47,5 +44,4 @@ You have to install [oomox](https://github.com/themix-project/oomox) there selec
 
 Send `telegram/BWnB.tdesktop-theme` to your saved messages and apply the theme.
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
