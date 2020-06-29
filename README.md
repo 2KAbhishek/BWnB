@@ -10,13 +10,12 @@
 
 BWnB (Black White n Blue) is a true black color theme with blue accents.
 
-
 Darker than any other dark theme out there, BWnB is specially useful for AMOLED screens. Embrace the darkness!
 
 ## Supported Platforms
 
-* Linux
-* Windows
+- Linux
+- Windows
 
 ## Usage Instructions
 
@@ -33,7 +32,9 @@ Double click `windows/BWnB.theme`.
 #### KDE
 
 You have to use a plasma theme that follows color scheme (e.g Breeze, Arc Color).
+
 Open System Settings > Color, then click on install from file and select `kde/BWnB.colors`.
+
 Then go to Application styles and pick an appropriate option, I'll again recommend Breeze.
 
 #### GNOME
@@ -43,5 +44,3 @@ You have to install [oomox](https://github.com/themix-project/oomox) there selec
 ##### Telegram Desktop
 
 Send `telegram/BWnB.tdesktop-theme` to your saved messages and apply the theme.
-
-
