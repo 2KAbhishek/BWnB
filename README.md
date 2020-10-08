@@ -44,3 +44,6 @@ You have to install [oomox](https://github.com/themix-project/oomox) there selec
 ##### Telegram Desktop
 
 Send `telegram/BWnB.tdesktop-theme` to your saved messages and apply the theme.
+
+### More Info
+
