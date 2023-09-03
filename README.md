@@ -51,6 +51,10 @@ Open System Settings > Color, then click on install from file and select `kde/BW
 
 Then go to Application styles and pick an appropriate option, I'll again recommend Breeze.
 
+#### Kvantum
+
+Install the [Kvantum theme](./kde/BWnB/) and select it.
+
 #### GNOME
 
 You have to install [oomox](https://github.com/themix-project/oomox) there select BWnB from the available themes.
