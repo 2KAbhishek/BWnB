@@ -29,7 +29,11 @@ Darker than any other dark theme out there, BWnB is specially useful for AMOLED 
 ## Supported Platforms
 
 - Linux
+  - KDE
+  - Gnome
+  - Kvantum
 - Windows
+- Telegram
 
 ## Usage Instructions
 
@@ -39,29 +43,33 @@ git clone https://github.com/2kabhishek/BWnB.git
 
 ### Windows
 
-Double click `windows/BWnB.theme`.
+On Windows 10 and newer, double click [windows/BWnB](./windows/BWnB.theme)
+
+For Windows 7 and older double click [windows/BWnB_legacy](./windows/BWnB_legacy.theme)
 
 ### Linux
 
 #### KDE
 
-You have to use a plasma theme that follows color scheme (e.g Breeze, Arc Color).
+You have to use a plasma theme that allows color scheme customization (e.g Breeze, Arc Color).
 
-Open System Settings > Color, then click on install from file and select `kde/BWnB.colors`.
+Open System Settings > Color, then click on install from file and select [kde/BWnB.colors](./kde/BWnB.colors).
 
 Then go to Application styles and pick an appropriate option, I'll again recommend Breeze.
 
 #### Kvantum
 
-Install the [Kvantum theme](./kde/BWnB/) and select it.
+Install the [Kvantum theme](./kvantum) in Kvantum Manager and select it.
+
+After installing you can select it via the CLI using: `kvantummanager --set "BWnB"`
 
 #### GNOME
 
-You have to install [oomox](https://github.com/themix-project/oomox) there select BWnB from the available themes.
+BWnB is published on [oomox](https://github.com/themix-project/oomox), you can install it from there directly.
+
+You can find a copy of [published version](https://github.com/themix-project/themix-gui/blob/master/colors/Contributed/BWnB) in [gnome/BWnB](./gnome/BWnB) for tweaking.
 
 ##### Telegram Desktop
 
-Send `telegram/BWnB.tdesktop-theme` to your saved messages and apply the theme.
-
-### More Info
+Send [telegram/BWnB.tdesktop-theme](./telegram/BWnB.tdesktop-theme) to your saved messages and apply the theme.
 
