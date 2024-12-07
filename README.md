@@ -59,7 +59,7 @@ Then go to Application styles and pick an appropriate option, I'll again recomme
 
 #### Kvantum
 
-Install the [Kvantum theme](./kvantum) in Kvantum Manager and select it.
+Install the [Kvantum theme](./kvantum/BWnB) in Kvantum Manager and select it.
 
 After installing you can select it via the CLI using: `kvantummanager --set "BWnB"`
 
